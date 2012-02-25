@@ -1,0 +1,3 @@
+[submodule "lib/weatherlight/git-cheatsheet"]
+	path = lib/weatherlight/git-cheatsheet
+	url = git://github.com/ndp/git-cheatsheet.git

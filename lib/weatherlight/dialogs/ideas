@@ -1,0 +1,182 @@
+Repository View
+  shows all branches
+
+Details:
+  Recent History
+  Local Changes
+  Missing Revisions (desyncs with another branches)
+
+----
+
+status - git gui
+  *toolbar
+     add/diff/commit
+     pull/merge/update
+     push/log
+     all/refresh
+
+----
+
+git configuration (.gitconfig)
+
+-----
+
+git explorer preferences (gui preferences)
+
+
+-----
+
+branch dialog:
+
+from:
+to:
+-----
+
+checkout 
+
+source:
+destination:
+revision: head/ref
+
+-----
+
+add
+
+Unversioned files
+Changed files
+Removed files
+
+------
+
+diff
+
+-------
+
+
+commit
+
+branch:
+message:
+contents:
+
+----
+
+
+run git
+
+
+-------
+
+
+colaboration
+
+pull new revisions/merge changes/update working tree
+push new revisions/send new revisions
+tag/export
+
+
+--------
+
+pull/push
+
+repo:
+branch:
+force?:
+default?:
+
+---------
+
+Merge
+
+??????
+
+--------
+
+send new revisions: a git hook....
+
+--------
+
+tag
+
+branch:
+commit:
+
+add/remove/change tag
+(light/heavy tag - advanced)
+
+---------
+
+export
+
+branch/tag/commit:
+path/archive:
+
+
+-----------------------------------------
+
+log history-DAG
+
+all commits, DAG, diff between commits
+direct link to browse history for each commit
+
+-----
+
+browse history (time machine)
+browse itens
+
+-----
+
+Information
+
+Branches, checkouts and repositories...
+
+-----
+
+
+sysinformation
+
+libraries used, whereIam, rubyversion
+
+
+-----
+
+
+system log
+
+
+git raw output
+
+
+-----------------------
+
+resolve conflicts
+
+?????
+
+---------------
+
+revert
+
+files?:
+how much?: (ref)
+
+---------
+
+uncommit
+
+
+---------
+
+Submodules
+
+Add/remove/update
+
+
+----------
+
+
+
+ssh keys
+
+generate keys
+public key
